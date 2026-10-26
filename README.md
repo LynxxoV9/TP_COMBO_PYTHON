@@ -43,5 +43,5 @@ Fonction : Senior Software Engineer, Consultant informatique CCI TOGO
 ## Auteur
 
 FIABI KOKOU OLIVIER - étudiant SICC-3 (Sécurité informatique)
-Un passionné par de python, la logique et la résolution de problèmes.
+Un passionné du python et de la logique.
 
